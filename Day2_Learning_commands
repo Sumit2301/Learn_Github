@@ -1,0 +1,20 @@
+Git status =
+The above commands explains the status(cureent state) of operation ,like what exactly hapening in operation
+(whethere it is added to commit or commited)
+
+
+
+
+git add 
+This git add staged (prepare to commit ) the file
+This add can be done by two commands 
+git add filename
+git add .(this is referes if all the files needs to be save)
+
+
+Then git commit will get to SAVE the STAGED files
+
+git commit
+The above command is used to save the changes made in the repository. It is used to save the
+changes made in the repository.It can also uses to save the newly created file
+while commiting the file/folder/document/source code, it needs to give the Message
