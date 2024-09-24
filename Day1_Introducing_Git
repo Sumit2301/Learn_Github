@@ -1,0 +1,14 @@
+Day1 
+The Git are the version control which is use to keep track on the content/source code and documents
+
+The Git is the free and open source software
+
+
+First command which every user needs to give or else  need to give to check whether the git is initialized in the system or not 
+for the above  the command git init gets used
+
+
+git config =this refers to the configuration of git which maily uses for signing the user for upcming future operations
+there two types by which user can cinfig one if by mail and another is by username
+git config --global user.name "your name"
+git config --global user.email "your email"
