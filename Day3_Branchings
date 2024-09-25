@@ -1,0 +1,12 @@
+Branching in Git
+It refers to breakdown the project and maintain the flow of projectv by working parallely and
+then assemble it in the final node(master branch) 
+git branch
+the above gets used for  checking at which branch currently the user is
+
+now if not any branch gets created then defaulty it is master branch
+if  it wants to  breakdown the work and want to do operation in another branch and then merge after getting completed then for creating the branch it can use git switch command
+git switch -c <branch-name> 
+in this -c stands for create
+git checkout -b <branch-name>
+this is used for creating a new branch and switching to it at the same time
