@@ -1,0 +1,2 @@
+As this command in the child branch  so it will merge in the Another_Branch as because Another_Branch is the parent of this child and then it merge in the master as master is the main node of the working directory
+now for this first needs to add (staged the file) and then needs to commit
